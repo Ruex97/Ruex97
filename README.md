@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruex97&label=Profile%20views&color=0e75b6&style=flat" alt="ruex97" /> </p>
 
-- I’m currently studying java and Spring Framework at IT ACADEMY (Barcelona) and also learning by my own **Python for everyone on coursera (Uniersity of Michigan)**
+- I’m currently studying **Java and Spring Framework at IT ACADEMY (Barcelona Activa)** and also learning by my own **Python for everyone on coursera (Uniersity of Michigan)**
 
 - 📫 Feel free to reach me **xavi.rue97@gmail.com**
 
