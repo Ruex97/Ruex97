@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xavi Rué</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<h3 align="center">A passionate fullstack developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruex97&label=Profile%20views&color=0e75b6&style=flat" alt="ruex97" /> </p>
 
-- I’m currently studying **Java and Spring Framework at IT ACADEMY (Barcelona Activa)** and also learning by my own **Python for everyone on coursera (Uniersity of Michigan)**
+- I’m currently working at **Liquidcars** and also studying **Enginyeria informática (Universitat Oberta de Catalunya)**
 
 - 📫 Feel free to reach me **xavi.rue97@gmail.com**
 
